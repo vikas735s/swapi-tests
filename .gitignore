@@ -1,0 +1,9 @@
+# Ignore all files and folders inside the .idea directory
+.idea/
+
+# Other ignore patterns
+target/
+*.log
+*.tmp
+*.swp
+.DS_Store

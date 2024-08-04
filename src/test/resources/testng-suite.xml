@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="SWAPI Test Suite">
+    <test name="SWAPI Tests">
+        <classes>
+            <class name="dev.swapi.LatestFilmTest"/>
+            <class name="dev.swapi.TallestCharacterInLatestFilmTest"/>
+            <class name="dev.swapi.TallestCharacterEverTest"/>
+            <class name="dev.swapi.PeopleSchemaValidationTest"/>
+        </classes>
+    </test>
+</suite>
